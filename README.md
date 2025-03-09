@@ -60,5 +60,5 @@ terraform apply
 
 ### 5. Done
 
-Then go to your email and accept the subsctription of SNS Topic
+Then go to your email and accept the subscription of SNS Topic
 
